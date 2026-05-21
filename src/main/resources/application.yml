@@ -1,3 +1,6 @@
+app:
+  description: "Smart E-Commerce Purchase API"
+
 spring:
   # ── PostgreSQL + JPA ───────────────────────────────────────
   datasource:
