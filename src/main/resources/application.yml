@@ -1,3 +1,7 @@
+app:
+  version: "1.0.0"
+  description: "Smart E-Commerce Platform"
+
 spring:
   # ── PostgreSQL + JPA ───────────────────────────────────────
   datasource:
