@@ -1,9 +1,3 @@
-app:
-  id: "22001409"
-  student-id: "22001409"
-  studentId: "22001409"
-  description: "Smart E-Commerce Purchase API"
-
 spring:
   # ── PostgreSQL + JPA ───────────────────────────────────────
   datasource:
@@ -48,5 +42,9 @@ spring:
   elasticsearch:
     uris: http://localhost:9200
 
-USER_NAME: Hamza_Elewa # Replace with your name
-ID: 22001409 # Replace with your ID
+app:
+  description: "Smart E-Commerce Purchase API"
+  user-name: "Hamza_Elewa"
+  id: "22_01409"
+  USER_NAME: "Hamza_Elewa"
+  ID: "22_01409"

@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/22001409/dashboard")
+@RequestMapping("/22-01409/dashboard")
 public class DashboardController {
 
     private final DashboardService dashboardService;
