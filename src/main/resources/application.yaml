@@ -1,4 +1,7 @@
 app:
+  id: "22001409"
+  student-id: "22001409"
+  studentId: "22001409"
   description: "Smart E-Commerce Purchase API"
 
 spring:
@@ -46,4 +49,4 @@ spring:
     uris: http://localhost:9200
 
 USER_NAME: Hamza_Elewa # Replace with your name
-ID: 22_01409 # Replace with your ID
+ID: 22001409 # Replace with your ID
